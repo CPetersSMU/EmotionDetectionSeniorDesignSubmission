@@ -1,9 +1,8 @@
 # EmotionDetectionSeniorDesignSubmission
 Submission Code for Senior Design Project
 
-###  To   the model:
-
-1. Run **Run_EmotionDetection**.
+###  To  run the model:
+- Run **Run_EmotionDetection**.
 
 ###  To re-train the model:
 
